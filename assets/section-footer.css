@@ -514,3 +514,7 @@
     }
   }
 }
+
+.footer__column .footer__localization .isolate {
+  display: none;
+}

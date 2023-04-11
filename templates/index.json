@@ -10,6 +10,13 @@
             "heading_size": "h1"
           }
         },
+        "d8cce185-d3f2-4d86-941b-4411614d6bfd": {
+          "type": "text",
+          "settings": {
+            "text": "With our efficient delivery and pickup service, you can focus on enjoying your event while we take care of the rest.",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -24,6 +31,7 @@
       },
       "block_order": [
         "heading",
+        "d8cce185-d3f2-4d86-941b-4411614d6bfd",
         "button"
       ],
       "settings": {
@@ -158,7 +166,8 @@
       ],
       "custom_css": [
         "img {object-fit: contain;}",
-        ".card__media {background: transparent;}"
+        ".card__media {background: white;}",
+        ".card__heading {font-size: 22px; font-weight: 600; background: white; color: black;}"
       ],
       "settings": {
         "title": "Product categories",
@@ -202,6 +211,9 @@
         "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-0",
         "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-1",
         "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-2"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/margarita-pour-from-shaker.jpg",

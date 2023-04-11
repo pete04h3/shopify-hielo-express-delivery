@@ -6,9 +6,172 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "6ed34b68-5353-45d3-8079-125a2a0f27f9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18583764074771__6ed34b68-5353-45d3-8079-125a2a0f27f9-16812161846897c95e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hielo Express",
+            "heading_size": "h0"
+          }
+        },
+        "template--18583764074771__6ed34b68-5353-45d3-8079-125a2a0f27f9-16812161846897c95e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our ice cubes are more than just frozen water - they are a commitment to quality, sustainability and eco-consciousness. We believe that every step of the process matters, from the water we use to the packaging we choose. That's why we offer ice cubes that are made with pure, filtered water and are wrapped in organic materials that are both biodegradable and compostable.<\/p><p>But it's not just about the water and the packaging - it's also about how we store and transport our ice cubes. That's why we offer an organic sustainable thermo bucket that keeps our ice cubes at the perfect temperature while minimizing our environmental impact. Made from sustainable materials, our thermo bucket is not only functional but also beautiful, with a sleek design that complements any setting.<\/p><p>When you choose our ice cubes, you can feel good knowing that you are getting a product that is not only of the highest quality but also eco-friendly and sustainable. We believe that every small step towards sustainability matters, and we are committed to doing our part to minimize our impact on the planet. So go ahead and enjoy your favorite drinks with our ice cubes, knowing that you are making a choice that is good for you and good for the earth.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18583764074771__6ed34b68-5353-45d3-8079-125a2a0f27f9-16812161846897c95e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18583764074771__6ed34b68-5353-45d3-8079-125a2a0f27f9-16812161846897c95e-0",
+        "template--18583764074771__6ed34b68-5353-45d3-8079-125a2a0f27f9-16812161846897c95e-1",
+        "template--18583764074771__6ed34b68-5353-45d3-8079-125a2a0f27f9-16812161846897c95e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tattooed-person-holding-a-glass-with-ice-over-a-bar-well.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7c98bbfb-3fc4-4106-ae66-0797b0060920": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1. Place your order",
+            "icon": "box",
+            "row_content": "<p>Place your order at www.hieloexpressdelivery.myshopify.com<\/p>",
+            "page": ""
+          }
+        },
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2. Add your location for delivery",
+            "icon": "map_pin",
+            "row_content": "<p>Add your location mapo pin, so we can deliver your order at your current location<\/p>",
+            "page": ""
+          }
+        },
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "3. Enjoy",
+            "icon": "snowflake",
+            "row_content": "<p>Enjoy your order - and make the most of your event<\/p>",
+            "page": ""
+          }
+        },
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Organic & sustainable",
+            "icon": "plant",
+            "row_content": "<p>Our ice cubes are more than just frozen water - they are a commitment to quality, sustainability and eco-consciousness. We believe that every step of the process matters, from the water we use to the packaging we choose. That's why we offer ice cubes that are made with pure, filtered water and are wrapped in organic materials that are both biodegradable and compostable.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-0",
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-1",
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-2",
+        "template--18583764074771__7c98bbfb-3fc4-4106-ae66-0797b0060920-16812161562c31d6a7-3"
+      ],
+      "settings": {
+        "caption": "Common questions",
+        "heading": "Orderflow",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "accent-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "00d2ca45-0b70-47d1-bf11-06883d1350dd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-0",
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-1",
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-2"
+      ],
+      "settings": {
+        "title": "Hielo Express focus points",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Shop now",
+        "button_link": "shopify:\/\/collections\/all",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "6ed34b68-5353-45d3-8079-125a2a0f27f9",
+    "7c98bbfb-3fc4-4106-ae66-0797b0060920",
+    "00d2ca45-0b70-47d1-bf11-06883d1350dd"
   ]
 }
