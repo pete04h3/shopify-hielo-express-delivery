@@ -120,8 +120,8 @@
         "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Sustainable Packaging",
+            "text": "<p>At Hielo Express, we are committed to minimizing our environmental impact. That's why we use sustainable packaging for our ice delivery. Our packaging is made from recycled materials and is fully recyclable. By choosing Hielo Express, you are making a choice for a more sustainable future.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -129,8 +129,8 @@
         "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Organic Materials",
+            "text": "<p>We believe that the best products start with the best ingredients. That's why we use only organic materials in our ice production. Our ice is made from purified water and certified organic ingredients, ensuring that you get a high-quality product that is good for both you and the environment.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -138,8 +138,17 @@
         "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Purified Water",
+            "text": "<p>Water is the key ingredient in our ice, and we believe that it should be of the highest quality. That's why we use purified water in all of our ice production. Our water is filtered through a multi-stage purification process to ensure that it is free from impurities and contaminants.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5975018e-c78e-428b-a61d-662a947f4032": {
+          "type": "column",
+          "settings": {
+            "title": "Solar Energy",
+            "text": "<p>Hielo Express is committed to reducing our carbon footprint. That's why we use solar energy to power our operations whenever possible. By harnessing the power of the sun, we are able to reduce our reliance on fossil fuels and move closer to a more sustainable future.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -148,14 +157,15 @@
       "block_order": [
         "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-0",
         "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-1",
-        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-2"
+        "template--18583764074771__00d2ca45-0b70-47d1-bf11-06883d1350dd-1681216174370ebc49-2",
+        "5975018e-c78e-428b-a61d-662a947f4032"
       ],
       "settings": {
         "title": "Hielo Express focus points",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Shop now",
