@@ -44,7 +44,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "heading_size": "h2",
+        "heading_size": "h0",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -155,6 +155,10 @@
         "8f3b57fa-3585-4978-8e57-021c91ff20d9",
         "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-1",
         "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-2"
+      ],
+      "custom_css": [
+        "img {object-fit: contain;}",
+        ".card__media {background: transparent;}"
       ],
       "settings": {
         "title": "Product categories",
