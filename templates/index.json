@@ -1,0 +1,205 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "HIELO EXPRESS DELIVERY",
+            "heading_size": "h1"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View products",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "Contact",
+            "button_link_2": "shopify:\/\/pages\/contact",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ice-cube-on-white-melting-04a3486y4bpzxh4x.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "c3324f4e-5600-42ae-b18e-2505d2dfb871": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18583763976467__c3324f4e-5600-42ae-b18e-2505d2dfb871-1681203707f049d33b-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-smiles-as-she-looks-at-her-cellphone.jpg",
+            "heading": "Whereever you are we go!",
+            "heading_size": "h1",
+            "subheading": "Order from anywhere through the hieloexpressdelivery shop and get your ice delivered to your preferred location!",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18583763976467__c3324f4e-5600-42ae-b18e-2505d2dfb871-1681203707f049d33b-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pouring-party-drinks.jpg",
+            "heading": "Express Delivery",
+            "heading_size": "h1",
+            "subheading": "Use the hieloexpressdelivery app to order & track your ice delivery!",
+            "button_label": "Order now",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583763976467__c3324f4e-5600-42ae-b18e-2505d2dfb871-1681203707f049d33b-0",
+        "template--18583763976467__c3324f4e-5600-42ae-b18e-2505d2dfb871-1681203707f049d33b-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1c9c70b7-e785-4c3a-be7d-a6e0a12fbff0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Sustainable ice containers",
+        "heading_size": "h1",
+        "description": "<p>Buy an organic thermobucket & help us save the planet. <br\/>We offer an organic sustainable thermo bucket that keeps our ice cubes at the perfect temperature while minimizing our environmental impact. <br\/>Made from sustainable materials, our thermo bucket is not only functional but also beautiful, with a sleek design that complements any setting.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "buckets-10-25kg",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cf97cbf5-9dde-4964-9130-f7854e4112ba": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We bring the ice, so you can bring the fun!",
+            "heading_size": "h0"
+          }
+        },
+        "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ever tried to host a party or an event, serving drinks, with the ice cubes from your fridge? Yea - it is a hassle, it melts quickly and looks sloppy. Instead you can order your ice from hieloexpressdelivery and focus on your party instead!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-0",
+        "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-1",
+        "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/friends-make-noise-for-new-years.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection",
+    "c3324f4e-5600-42ae-b18e-2505d2dfb871",
+    "1c9c70b7-e785-4c3a-be7d-a6e0a12fbff0",
+    "cf97cbf5-9dde-4964-9130-f7854e4112ba"
+  ]
+}

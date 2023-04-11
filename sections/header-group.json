@@ -1,0 +1,56 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "HIELOEXPRESSDELIVERY",
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "link": ""
+          }
+        },
+        "b4ef8f72-569d-4e0a-92bb-62dab7376dc0": {
+          "type": "announcement",
+          "settings": {
+            "text": "GET 20% DISCOUNT FOR PURCHASES OVER 50 EUR",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "b4ef8f72-569d-4e0a-92bb-62dab7376dc0"
+      ],
+      "settings": {
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
