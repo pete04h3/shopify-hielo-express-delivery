@@ -130,7 +130,7 @@
     "cart_drawer_collection": "",
     "checkout_header_image": "shopify:\/\/shop_images\/ice-cube-on-white-melting-04a3486y4bpzxh4x.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/hieloexpresslogo.png",
-    "checkout_body_background_image": "shopify:\/\/shop_images\/ice-cube-on-white-melting-04a3486y4bpzxh4x.jpg",
+    "checkout_body_background_color": "#f5f5f5",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

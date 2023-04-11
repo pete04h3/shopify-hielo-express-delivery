@@ -122,31 +122,51 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "1c9c70b7-e785-4c3a-be7d-a6e0a12fbff0": {
-      "type": "featured-collection",
+    "bb7ca774-770d-453a-b0eb-c23c4e442239": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "buckets-10-25kg"
+          }
+        },
+        "8f3b57fa-3585-4978-8e57-021c91ff20d9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bags-5kg"
+          }
+        },
+        "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "boxes"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-0",
+        "8f3b57fa-3585-4978-8e57-021c91ff20d9",
+        "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-1",
+        "template--18583763976467__bb7ca774-770d-453a-b0eb-c23c4e442239-1681211265198f7a47-2"
+      ],
       "settings": {
-        "title": "Sustainable ice containers",
+        "title": "Product categories",
         "heading_size": "h1",
-        "description": "<p>Buy an organic thermobucket & help us save the planet. <br\/>We offer an organic sustainable thermo bucket that keeps our ice cubes at the perfect temperature while minimizing our environmental impact. <br\/>Made from sustainable materials, our thermo bucket is not only functional but also beautiful, with a sleek design that complements any setting.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "buckets-10-25kg",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
         "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 64,
+        "padding_bottom": 64
       }
     },
     "cf97cbf5-9dde-4964-9130-f7854e4112ba": {
@@ -180,7 +200,7 @@
         "template--18583763976467__cf97cbf5-9dde-4964-9130-f7854e4112ba-1681204321c0f74add-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/friends-make-noise-for-new-years.jpg",
+        "image": "shopify:\/\/shop_images\/margarita-pour-from-shaker.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -199,7 +219,7 @@
     "image_banner",
     "featured_collection",
     "c3324f4e-5600-42ae-b18e-2505d2dfb871",
-    "1c9c70b7-e785-4c3a-be7d-a6e0a12fbff0",
+    "bb7ca774-770d-453a-b0eb-c23c4e442239",
     "cf97cbf5-9dde-4964-9130-f7854e4112ba"
   ]
 }
